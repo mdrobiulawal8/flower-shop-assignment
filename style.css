@@ -221,10 +221,21 @@
     width: 342px;
     height: 396px;
 }
-.image-container{
+
+.image-container {
     display: flex;
-    gap: 24px;
+
     width: 1440px;
-    margin-left: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px;
+    
+    
+
+}
+
+/* email section */
+.email-container {
+    background-image: url("/Flower\ Asset/");
 
 }
